@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tfg:item/universal/iv_universal_circuit",
+	"layer1":"gtceu:item/overlay/iv"
+  }
+}

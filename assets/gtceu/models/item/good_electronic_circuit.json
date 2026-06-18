@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gtceu:item/good_electronic_circuit",
+	"layer1":"gtceu:item/overlay/mv"
+  }
+}

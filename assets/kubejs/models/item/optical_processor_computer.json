@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kubejs:item/circuits/theme/optical/circuit/optical_processor_computer",
+	"layer1":"gtceu:item/overlay/uhv"
+  }
+}

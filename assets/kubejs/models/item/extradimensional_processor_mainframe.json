@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kubejs:item/circuits/theme/extradimensional/circuit/extradimensional_processor_mainframe_base",
+	"layer1":"gtceu:item/overlay/max"
+  }
+}

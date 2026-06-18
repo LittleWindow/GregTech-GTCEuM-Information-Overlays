@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kubejs:item/circuits/universal/luv_universal_circuit",
+	"layer1":"gtceu:item/overlay/luv"
+  }
+}

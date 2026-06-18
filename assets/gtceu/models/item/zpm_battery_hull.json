@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gtceu:item/zpm_battery_hull",
+	"layer1":"gtceu:item/overlay/zpm_empty"
+  }
+}
