@@ -11,7 +11,7 @@ Currently includes:
 **COMPATIBILITY**
 
 - Most resourcepacks that change circuits;
-- [Monifactory](https://www.curseforge.com/minecraft/modpacks/monifactory) circuits.
+- [Monifactory](https://www.curseforge.com/minecraft/modpacks/monifactory) circuits;
 - [TerraFirmaGreg-Modern](https://www.curseforge.com/minecraft/modpacks/terrafirmagreg-modern) circuits.
 
 **CREDITS**
