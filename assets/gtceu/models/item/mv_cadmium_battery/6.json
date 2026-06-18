@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gtceu:item/mv_cadmium_battery/7",
+	"layer1":"gtceu:item/overlay/mv",
+	"layer2":"gtceu:item/overlay/cadmium"
+  }
+}

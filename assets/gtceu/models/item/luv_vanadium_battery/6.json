@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gtceu:item/luv_vanadium_battery/7",
+	"layer1":"gtceu:item/overlay/luv",
+	"layer2":"gtceu:item/overlay/vanadium"
+  }
+}
