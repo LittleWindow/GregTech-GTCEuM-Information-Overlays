@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gtceu:item/energy_crystal/4",
+	"layer1":"gtceu:item/overlay/hv"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gtceu:item/lv_sodium_battery/4",
+	"layer1":"gtceu:item/overlay/lv",
+	"layer2":"gtceu:item/overlay/sodium"
+  }
+}

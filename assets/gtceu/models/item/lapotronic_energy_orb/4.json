@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gtceu:item/lapotronic_energy_orb/5",
+	"layer1":"gtceu:item/overlay/iv"
+  }
+}
