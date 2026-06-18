@@ -3,16 +3,25 @@ Info overlays for GTCEuM items, in x16.
 
 Adds information overlays to some GTCEuM items, in x16.
 
-Currently includes:
+**INCLUDES**
 
 - Voltage tiers for circuits;
-- Voltage tiers and material for batteries.
+- Voltage tiers and materials for batteries.
 
 **COMPATIBILITY**
 
 - Most resourcepacks that change circuits;
-- [Monifactory](https://www.curseforge.com/minecraft/modpacks/monifactory) circuits;
-- [TerraFirmaGreg-Modern](https://www.curseforge.com/minecraft/modpacks/terrafirmagreg-modern) circuits.
+- [Monifactory](https://www.curseforge.com/minecraft/modpacks/monifactory) circuits, out of the box;
+- [TerraFirmaGreg-Modern](https://www.curseforge.com/minecraft/modpacks/terrafirmagreg-modern) circuits, out of the box;
+- [Star Technology](https://www.curseforge.com/minecraft/modpacks/star-technology) circuits, with the optional download.
+
+**READ HERE!**
+
+**Only use one of the main files! The different downloads are not updates!**
+
+- If playing Star Technology download the corresponding version (with "Star Technolgy" written).
+
+- If playing (Moni, TFG ,etc) download the normal version.
 
 **CREDITS**
 
